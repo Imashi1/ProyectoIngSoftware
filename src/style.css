@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+header{
+  background-color: #1B1A1A;
+  color: #FFFFFF;
+
+}
+
+.contenedor{
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu li{
+  list-style: none;
+  display: inline-block;
+  padding: 5px;
+
+}
+.link-menu{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+
+footer{
+  background-color: #1B1A1A;
+  color: #FFFFFF;
+}
